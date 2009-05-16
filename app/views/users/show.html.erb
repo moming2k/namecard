@@ -1,0 +1,18 @@
+<p>
+  <b>Name:</b>
+  <%=h @user.name %>
+</p>
+
+<p>
+  <b>Pid:</b>
+  <%=h @user.pid %>
+</p>
+
+<p>
+  <b>Facebook:</b>
+  <%=h @user.facebook_id %>
+</p>
+
+
+<%= link_to 'Edit', edit_user_path(@user) %> |
+<%= link_to 'Back', users_path %>
