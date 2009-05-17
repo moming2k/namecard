@@ -417,3 +417,39 @@ Completed in 2ms (View: 1, DB: 1) | 200 OK [http://127.0.0.1/home/designer]
 Processing HomeController#designer (for 127.0.0.1 at 2009-05-17 21:29:14) [GET]
 Rendering home/designer
 Completed in 2ms (View: 1, DB: 0) | 200 OK [http://127.0.0.1/home/designer]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#designer (for 127.0.0.1 at 2009-05-18 02:05:52) [GET]
+Rendering home/designer
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://127.0.0.1/home/designer]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#designer (for 127.0.0.1 at 2009-05-18 02:05:56) [GET]
+Rendering home/designer
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://127.0.0.1/home/designer]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#designer (for 127.0.0.1 at 2009-05-18 02:06:22) [GET]
+Rendering home/designer
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://127.0.0.1/home/designer]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#designer (for 127.0.0.1 at 2009-05-18 02:12:21) [GET]
+Rendering home/designer
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://127.0.0.1/home/designer]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#designer (for 127.0.0.1 at 2009-05-18 02:41:18) [GET]
+Rendering home/designer
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://127.0.0.1/home/designer]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#designer (for 127.0.0.1 at 2009-05-18 02:52:44) [GET]
+Rendering home/designer
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://127.0.0.1/home/designer]
