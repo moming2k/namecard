@@ -12,7 +12,7 @@ development:
   api_key: ead3f5fae9b07b793213f1f867393389
   secret_key: 3bbbaed1652a8826df526c87dc27ee89
   canvas_page_name: Name Card Creator
-  callback_url: http://namecard.igpsd.com/
+  callback_url: http://127.0.0.1:3000/
   pretty_errors: true
   set_asset_host_to_callback_url: true
   tunnel:
